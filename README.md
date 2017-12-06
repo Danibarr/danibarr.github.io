@@ -1,7 +1,4 @@
-## Hello, I am Dani!
+##danibarr.github.io
 
-Welcome to my page!
-
-### Currently Under Construction
-
+You may use this source code as a reference.
 
